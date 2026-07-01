@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use ARIP in your research, engineering work, documentation, or open-source projects, please cite it using the metadata from this file."
+title: "ARIP: Autonomous Reliability Intelligence Platform"
+type: software
+authors:
+
+* family-names: "He"
+  given-names: "Mo"
+  repository-code: "https://github.com/mohe38356-arch/arip"
+  url: "https://github.com/mohe38356-arch/arip"
+  abstract: "ARIP is an open-source Industrial Operating System initiative for reliability intelligence, condition monitoring, asset intelligence, digital twins, industrial AI, and autonomous maintenance. The project aims to provide a vendor-neutral and engineering-oriented foundation for industrial reliability and maintenance software."
+  keywords:
+* reliability-engineering
+* condition-monitoring
+* predictive-maintenance
+* asset-management
+* digital-twin
+* industrial-ai
+* knowledge-graph
+* autonomous-maintenance
+* cement-industry
+* open-source
+  license: "Apache-2.0"
+  version: "0.1.0-alpha"
+  date-released: "2026-07-01"
