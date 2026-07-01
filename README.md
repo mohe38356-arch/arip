@@ -185,6 +185,23 @@ arip/
 
 ---
 
+## Documentation
+
+Core project documentation:
+
+- [Project Vision](docs/vision/project-vision.md)
+- [Open Source Positioning](docs/vision/open-source-positioning.md)
+- [Architecture Overview](docs/architecture/architecture-overview.md)
+- [Asset Hierarchy Model](docs/architecture/asset-hierarchy-model.md)
+- [Offline-First Architecture](docs/architecture/offline-first-architecture.md)
+- [Condition Monitoring Domain Model](docs/condition-monitoring/condition-monitoring-domain-model.md)
+- [Reliability Intelligence Domain Model](docs/reliability/reliability-intelligence-domain-model.md)
+- [Knowledge Graph Concept](docs/knowledge-graph/knowledge-graph-concept.md)
+- [Digital Twin Concept](docs/digital-twin/digital-twin-concept.md)
+- [Industrial AI Concept](docs/ai/industrial-ai-concept.md)
+- [Claude for Open Source Application Draft](docs/vision/claude-oss-application-draft.md)
+
+  
 ## Roadmap
 
 See [ROADMAP.md](ROADMAP.md).
