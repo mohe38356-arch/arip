@@ -164,6 +164,13 @@ Current focus:
 * Prototype implementation
 
 ---
+## Current Release
+
+The first alpha release of ARIP is available as:
+
+* [ARIP v0.1.0-alpha — Open Source Foundation](https://github.com/mohe38356-arch/arip/releases/tag/v0.1.0-alpha)
+
+This release establishes the open-source foundation of the project, including documentation, architecture, roadmap, governance, security policy, contribution guidelines, issues, milestones, and initial project positioning.
 
 ## Repository Structure
 
