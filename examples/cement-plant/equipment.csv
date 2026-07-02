@@ -1,0 +1,13 @@
+equipment_id,system_id,equipment_code,equipment_name,equipment_type,description,status,criticality,manufacturer,model,serial_number
+EQ-001,SYS-001,CR-CRUSHER-001,Primary Crusher,Crusher,Synthetic primary crusher for raw material size reduction,Active,A,Generic OEM,CR-1000,SYN-CR-001
+EQ-002,SYS-002,RM-FAN-001,Raw Mill Fan,Fan,Synthetic raw mill fan for process gas and material transport,Active,A,Generic OEM,FN-900,SYN-FN-001
+EQ-003,SYS-002,RM-MILL-001,Raw Mill,Vertical Roller Mill,Synthetic raw mill for raw material grinding,Active,A,Generic OEM,VRM-4800,SYN-RM-001
+EQ-004,SYS-002,RM-SEP-001,Raw Mill Separator,Separator,Synthetic separator for raw mill product classification,Active,B,Generic OEM,SEP-300,SYN-SEP-001
+EQ-005,SYS-003,KILN-DRV-001,Kiln Main Drive,Drive System,Synthetic kiln main drive including motor gearbox and coupling,Active,A,Generic OEM,KD-500,SYN-KD-001
+EQ-006,SYS-004,CLR-FAN-001,Cooler Fan,Fan,Synthetic clinker cooler fan,Active,A,Generic OEM,CF-700,SYN-CF-001
+EQ-007,SYS-005,CM-GBX-001,Cement Mill Gearbox,Gearbox,Synthetic cement mill gearbox,Active,A,Generic OEM,GBX-2500,SYN-GBX-001
+EQ-008,SYS-005,CM-SEP-001,Cement Mill Separator,Separator,Synthetic cement mill separator,Active,B,Generic OEM,SEP-400,SYN-CMSEP-001
+EQ-009,SYS-006,PK-ELEV-001,Bucket Elevator,Elevator,Synthetic bucket elevator for material transport,Active,B,Generic OEM,ELV-200,SYN-ELV-001
+EQ-010,SYS-006,PK-CONV-001,Belt Conveyor,Conveyor,Synthetic belt conveyor for packing area transport,Active,C,Generic OEM,BC-120,SYN-BC-001
+EQ-011,SYS-007,UTIL-COMP-001,Air Compressor,Compressor,Synthetic air compressor for plant utilities,Active,A,Generic OEM,COMP-160,SYN-COMP-001
+EQ-012,SYS-008,UTIL-PUMP-001,Water Pump,Pump,Synthetic utility water pump,Active,B,Generic OEM,PMP-080,SYN-PMP-001
