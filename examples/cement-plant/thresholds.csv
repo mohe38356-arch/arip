@@ -1,0 +1,21 @@
+threshold_id,method_code,equipment_type,parameter,unit,normal_max,alarm_min,danger_min,criticality_scope,description,status
+TH-001,VIBRATION,Fan,Overall Velocity,mm/s,4.5,4.5,7.1,A-B,Generic synthetic vibration threshold for fan bearing points,Active
+TH-002,VIBRATION,Motor,Overall Velocity,mm/s,4.5,4.5,7.1,A-B,Generic synthetic vibration threshold for motor bearing points,Active
+TH-003,VIBRATION,Gearbox,Overall Velocity,mm/s,4.5,4.5,7.1,A-B,Generic synthetic vibration threshold for gearbox measurement points,Active
+TH-004,VIBRATION,Pump,Overall Velocity,mm/s,4.5,4.5,7.1,A-B,Generic synthetic vibration threshold for pump and motor points,Active
+TH-005,VIBRATION,Compressor,Overall Velocity,mm/s,4.5,4.5,7.1,A-B,Generic synthetic vibration threshold for compressor points,Active
+TH-006,VIBRATION,Elevator,Overall Velocity,mm/s,4.5,4.5,7.1,B-C,Generic synthetic vibration threshold for elevator bearings,Active
+TH-007,TEMPERATURE,Bearing,Bearing Temperature,C,70,70,85,A-B,Generic synthetic temperature threshold for rolling bearing points,Active
+TH-008,TEMPERATURE,Gearbox,Oil or Housing Temperature,C,75,75,90,A-B,Generic synthetic gearbox temperature threshold,Active
+TH-009,TEMPERATURE,Compressor,Air End Temperature,C,80,80,95,A-B,Generic synthetic compressor air end temperature threshold,Active
+TH-010,OIL-ANALYSIS,Gearbox,ISO Cleanliness,ISO 4406,18/16/13,18/16/13,21/19/16,A-B,Generic synthetic oil cleanliness threshold for gearboxes,Active
+TH-011,OIL-ANALYSIS,Bearing Housing,ISO Cleanliness,ISO 4406,18/16/13,18/16/13,21/19/16,A-B,Generic synthetic oil cleanliness threshold for bearing housings,Active
+TH-012,OIL-ANALYSIS,Gearbox,Water Content,ppm,300,300,800,A-B,Generic synthetic oil water content threshold,Active
+TH-013,OIL-ANALYSIS,Gearbox,Viscosity Change,percent,10,10,20,A-B,Generic synthetic viscosity change threshold from reference oil,Active
+TH-014,THERMOGRAPHY,Electrical Panel,Temperature Rise,C,15,15,30,A-B,Generic synthetic thermal rise threshold for electrical inspections,Active
+TH-015,THERMOGRAPHY,Mechanical Component,Temperature Rise,C,20,20,35,A-B,Generic synthetic thermal rise threshold for mechanical inspections,Active
+TH-016,ULTRASOUND,Bearing,Ultrasound Level,dB,8,8,16,A-B,Generic synthetic ultrasound threshold for bearing friction or lubrication issues,Active
+TH-017,ULTRASOUND,Compressed Air,Leak Severity,Severity,1,2,4,B-C,Generic synthetic ultrasound threshold for compressed air leaks,Active
+TH-018,VISUAL,Belt Conveyor,Visual Severity,Severity,1,2,4,B-C,Generic synthetic visual severity threshold for belt damage,Active
+TH-019,VISUAL,Pump,Visual Severity,Severity,1,2,4,B-C,Generic synthetic visual severity threshold for leakage or damage,Active
+TH-020,PROCESS-DATA,Rotating Equipment,Load Change,percent,10,15,25,A-B,Generic synthetic process deviation threshold for reliability context,Active
