@@ -1,0 +1,2 @@
+plant_id,plant_code,plant_name,description,status,industry,country,city
+PLANT-001,CEM-PLANT-001,Example Cement Plant,Synthetic example cement plant for ARIP development and documentation,Active,Cement,Example Country,Example City
