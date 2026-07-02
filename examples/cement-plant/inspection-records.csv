@@ -1,0 +1,35 @@
+inspection_id,measurement_point_id,equipment_id,inspection_date,method_code,value,unit,condition_status,diagnostic_note,created_by
+INSP-001,MP-003,EQ-002,2026-07-01,VIBRATION,3.2,mm/s,Normal,Raw mill fan motor DE horizontal vibration within normal range,synthetic-inspector
+INSP-002,MP-004,EQ-002,2026-07-01,VIBRATION,3.6,mm/s,Normal,Raw mill fan motor DE vertical vibration within normal range,synthetic-inspector
+INSP-003,MP-005,EQ-002,2026-07-01,VIBRATION,2.1,mm/s,Normal,Raw mill fan motor DE axial vibration within normal range,synthetic-inspector
+INSP-004,MP-008,EQ-002,2026-07-01,VIBRATION,5.2,mm/s,Alarm,Raw mill fan DE bearing horizontal vibration above alarm threshold,synthetic-inspector
+INSP-005,MP-009,EQ-002,2026-07-01,VIBRATION,4.9,mm/s,Alarm,Raw mill fan DE bearing vertical vibration above alarm threshold,synthetic-inspector
+INSP-006,MP-010,EQ-002,2026-07-01,VIBRATION,2.8,mm/s,Normal,Raw mill fan DE bearing axial vibration within normal range,synthetic-inspector
+INSP-007,MP-013,EQ-002,2026-07-01,TEMPERATURE,74,C,Alarm,Raw mill fan DE bearing temperature above alarm threshold,synthetic-inspector
+INSP-008,MP-014,EQ-002,2026-07-01,TEMPERATURE,66,C,Normal,Raw mill fan NDE bearing temperature within normal range,synthetic-inspector
+INSP-009,MP-015,EQ-002,2026-07-01,OIL-ANALYSIS,19/17/14,ISO 4406,Alarm,Raw mill fan bearing oil cleanliness above alarm threshold,synthetic-lab
+INSP-010,MP-016,EQ-003,2026-07-01,VIBRATION,3.8,mm/s,Normal,Raw mill main motor DE horizontal vibration acceptable,synthetic-inspector
+INSP-011,MP-017,EQ-003,2026-07-01,VIBRATION,4.2,mm/s,Normal,Raw mill main motor DE vertical vibration near alarm but acceptable,synthetic-inspector
+INSP-012,MP-018,EQ-003,2026-07-01,VIBRATION,5.6,mm/s,Alarm,Raw mill gearbox input horizontal vibration above alarm threshold,synthetic-inspector
+INSP-013,MP-019,EQ-003,2026-07-01,VIBRATION,4.7,mm/s,Alarm,Raw mill gearbox input vertical vibration above alarm threshold,synthetic-inspector
+INSP-014,MP-020,EQ-003,2026-07-01,TEMPERATURE,78,C,Alarm,Raw mill gearbox temperature above alarm threshold,synthetic-inspector
+INSP-015,MP-021,EQ-005,2026-07-01,VIBRATION,2.9,mm/s,Normal,Kiln drive motor DE horizontal vibration normal,synthetic-inspector
+INSP-016,MP-022,EQ-005,2026-07-01,VIBRATION,3.1,mm/s,Normal,Kiln drive motor DE vertical vibration normal,synthetic-inspector
+INSP-017,MP-023,EQ-005,2026-07-01,VIBRATION,4.4,mm/s,Normal,Kiln drive gearbox input horizontal vibration close to alarm,synthetic-inspector
+INSP-018,MP-024,EQ-005,2026-07-01,VIBRATION,3.9,mm/s,Normal,Kiln drive gearbox output horizontal vibration acceptable,synthetic-inspector
+INSP-019,MP-025,EQ-005,2026-07-01,OIL-ANALYSIS,18/16/13,ISO 4406,Normal,Kiln drive gearbox oil cleanliness within normal synthetic limit,synthetic-lab
+INSP-020,MP-026,EQ-006,2026-07-01,VIBRATION,7.8,mm/s,Danger,Cooler fan DE bearing horizontal vibration above danger threshold,synthetic-inspector
+INSP-021,MP-027,EQ-006,2026-07-01,VIBRATION,6.3,mm/s,Alarm,Cooler fan DE bearing vertical vibration above alarm threshold,synthetic-inspector
+INSP-022,MP-028,EQ-006,2026-07-01,TEMPERATURE,88,C,Danger,Cooler fan DE bearing temperature above danger threshold,synthetic-inspector
+INSP-023,MP-029,EQ-007,2026-07-01,VIBRATION,3.5,mm/s,Normal,Cement mill gearbox input bearing horizontal vibration normal,synthetic-inspector
+INSP-024,MP-030,EQ-007,2026-07-01,VIBRATION,4.8,mm/s,Alarm,Cement mill gearbox output bearing horizontal vibration above alarm threshold,synthetic-inspector
+INSP-025,MP-031,EQ-007,2026-07-01,TEMPERATURE,72,C,Normal,Cement mill gearbox input bearing temperature acceptable,synthetic-inspector
+INSP-026,MP-032,EQ-007,2026-07-01,TEMPERATURE,82,C,Alarm,Cement mill gearbox output bearing temperature above alarm threshold,synthetic-inspector
+INSP-027,MP-033,EQ-009,2026-07-01,VIBRATION,3.9,mm/s,Normal,Bucket elevator head bearing vibration acceptable,synthetic-inspector
+INSP-028,MP-034,EQ-009,2026-07-01,TEMPERATURE,64,C,Normal,Bucket elevator head bearing temperature normal,synthetic-inspector
+INSP-029,MP-035,EQ-010,2026-07-01,VISUAL,2,Severity,Alarm,Belt conveyor visual inspection shows moderate belt edge wear,synthetic-inspector
+INSP-030,MP-036,EQ-011,2026-07-01,VIBRATION,3.4,mm/s,Normal,Air compressor motor DE horizontal vibration normal,synthetic-inspector
+INSP-031,MP-037,EQ-011,2026-07-01,VIBRATION,5.1,mm/s,Alarm,Air compressor air end horizontal vibration above alarm threshold,synthetic-inspector
+INSP-032,MP-038,EQ-011,2026-07-01,TEMPERATURE,84,C,Alarm,Air compressor air end temperature above alarm threshold,synthetic-inspector
+INSP-033,MP-039,EQ-012,2026-07-01,VIBRATION,2.7,mm/s,Normal,Water pump motor DE horizontal vibration normal,synthetic-inspector
+INSP-034,MP-040,EQ-012,2026-07-01,VISUAL,1,Severity,Normal,Water pump impeller visual inspection acceptable,synthetic-inspector
