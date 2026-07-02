@@ -1,0 +1,9 @@
+system_id,area_id,system_code,system_name,description,status
+SYS-001,AREA-001,CRUSHER-SYS,Crusher System,Synthetic crushing system for raw material size reduction,Active
+SYS-002,AREA-002,RAW-MILL-SYS,Raw Mill System,Synthetic raw grinding system including mill fan separator and related drives,Active
+SYS-003,AREA-003,KILN-SYS,Kiln System,Synthetic kiln system including main drive support equipment and process context,Active
+SYS-004,AREA-003,COOLER-SYS,Clinker Cooler System,Synthetic cooler system including cooler fans drives and auxiliary equipment,Active
+SYS-005,AREA-004,CEMENT-MILL-SYS,Cement Mill System,Synthetic cement grinding system including mill gearbox separator and fan,Active
+SYS-006,AREA-005,PACKING-SYS,Packing System,Synthetic packing system including elevators conveyors and packers,Active
+SYS-007,AREA-006,AIR-COMP-SYS,Compressed Air System,Synthetic compressed air system including compressors dryers and air receivers,Active
+SYS-008,AREA-006,WATER-PUMP-SYS,Water Pump System,Synthetic utility water pumping system,Active
