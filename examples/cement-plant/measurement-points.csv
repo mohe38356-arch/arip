@@ -1,0 +1,41 @@
+measurement_point_id,component_id,equipment_id,point_code,point_name,monitoring_method,direction,unit,alarm_threshold,danger_threshold,measurement_interval,portable_or_online,status
+MP-001,COMP-002,EQ-001,CR-CRUSHER-001-BRG-DE-H,Crusher DE Bearing Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-002,COMP-002,EQ-001,CR-CRUSHER-001-BRG-DE-V,Crusher DE Bearing Vertical,Vibration,Vertical,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-003,COMP-003,EQ-002,RM-FAN-001-MOTOR-DE-H,Raw Mill Fan Motor DE Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-004,COMP-003,EQ-002,RM-FAN-001-MOTOR-DE-V,Raw Mill Fan Motor DE Vertical,Vibration,Vertical,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-005,COMP-003,EQ-002,RM-FAN-001-MOTOR-DE-A,Raw Mill Fan Motor DE Axial,Vibration,Axial,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-006,COMP-003,EQ-002,RM-FAN-001-MOTOR-NDE-H,Raw Mill Fan Motor NDE Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-007,COMP-003,EQ-002,RM-FAN-001-MOTOR-NDE-V,Raw Mill Fan Motor NDE Vertical,Vibration,Vertical,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-008,COMP-006,EQ-002,RM-FAN-001-FAN-DE-H,Raw Mill Fan DE Bearing Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-009,COMP-006,EQ-002,RM-FAN-001-FAN-DE-V,Raw Mill Fan DE Bearing Vertical,Vibration,Vertical,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-010,COMP-006,EQ-002,RM-FAN-001-FAN-DE-A,Raw Mill Fan DE Bearing Axial,Vibration,Axial,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-011,COMP-007,EQ-002,RM-FAN-001-FAN-NDE-H,Raw Mill Fan NDE Bearing Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-012,COMP-007,EQ-002,RM-FAN-001-FAN-NDE-V,Raw Mill Fan NDE Bearing Vertical,Vibration,Vertical,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-013,COMP-006,EQ-002,RM-FAN-001-BRG-DE-TEMP,Raw Mill Fan DE Bearing Temperature,Temperature,Temperature,C,70,85,Monthly,Portable,Active
+MP-014,COMP-007,EQ-002,RM-FAN-001-BRG-NDE-TEMP,Raw Mill Fan NDE Bearing Temperature,Temperature,Temperature,C,70,85,Monthly,Portable,Active
+MP-015,COMP-006,EQ-002,RM-FAN-001-OIL-SAMPLE,Raw Mill Fan Bearing Oil Sample,Oil Analysis,Oil Sample,ISO 4406,18/16/13,21/19/16,Quarterly,Portable,Active
+MP-016,COMP-008,EQ-003,RM-MILL-001-MOTOR-DE-H,Raw Mill Main Motor DE Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-017,COMP-008,EQ-003,RM-MILL-001-MOTOR-DE-V,Raw Mill Main Motor DE Vertical,Vibration,Vertical,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-018,COMP-009,EQ-003,RM-MILL-001-GBX-IN-H,Raw Mill Gearbox Input Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-019,COMP-009,EQ-003,RM-MILL-001-GBX-IN-V,Raw Mill Gearbox Input Vertical,Vibration,Vertical,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-020,COMP-009,EQ-003,RM-MILL-001-GBX-TEMP,Raw Mill Gearbox Temperature,Temperature,Temperature,C,75,90,Monthly,Portable,Active
+MP-021,COMP-013,EQ-005,KILN-DRV-001-MOTOR-DE-H,Kiln Drive Motor DE Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-022,COMP-013,EQ-005,KILN-DRV-001-MOTOR-DE-V,Kiln Drive Motor DE Vertical,Vibration,Vertical,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-023,COMP-014,EQ-005,KILN-DRV-001-GBX-IN-H,Kiln Drive Gearbox Input Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-024,COMP-014,EQ-005,KILN-DRV-001-GBX-OUT-H,Kiln Drive Gearbox Output Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-025,COMP-014,EQ-005,KILN-DRV-001-GBX-OIL,Kiln Drive Gearbox Oil Sample,Oil Analysis,Oil Sample,ISO 4406,18/16/13,21/19/16,Quarterly,Portable,Active
+MP-026,COMP-018,EQ-006,CLR-FAN-001-BRG-DE-H,Cooler Fan DE Bearing Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-027,COMP-018,EQ-006,CLR-FAN-001-BRG-DE-V,Cooler Fan DE Bearing Vertical,Vibration,Vertical,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-028,COMP-018,EQ-006,CLR-FAN-001-BRG-DE-TEMP,Cooler Fan DE Bearing Temperature,Temperature,Temperature,C,70,85,Monthly,Portable,Active
+MP-029,COMP-021,EQ-007,CM-GBX-001-IN-BRG-H,Cement Mill Gearbox Input Bearing Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-030,COMP-022,EQ-007,CM-GBX-001-OUT-BRG-H,Cement Mill Gearbox Output Bearing Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-031,COMP-021,EQ-007,CM-GBX-001-IN-BRG-TEMP,Cement Mill Gearbox Input Bearing Temperature,Temperature,Temperature,C,75,90,Monthly,Portable,Active
+MP-032,COMP-022,EQ-007,CM-GBX-001-OUT-BRG-TEMP,Cement Mill Gearbox Output Bearing Temperature,Temperature,Temperature,C,75,90,Monthly,Portable,Active
+MP-033,COMP-024,EQ-009,PK-ELEV-001-HEAD-BRG-H,Bucket Elevator Head Bearing Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-034,COMP-024,EQ-009,PK-ELEV-001-HEAD-BRG-TEMP,Bucket Elevator Head Bearing Temperature,Temperature,Temperature,C,70,85,Monthly,Portable,Active
+MP-035,COMP-025,EQ-010,PK-CONV-001-BELT-VISUAL,Belt Conveyor Belt Visual Inspection,Visual Inspection,Visual,Severity,2,4,Weekly,Portable,Active
+MP-036,COMP-027,EQ-011,UTIL-COMP-001-MOTOR-DE-H,Air Compressor Motor DE Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-037,COMP-028,EQ-011,UTIL-COMP-001-AIR-END-H,Air Compressor Air End Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-038,COMP-028,EQ-011,UTIL-COMP-001-AIR-END-TEMP,Air Compressor Air End Temperature,Temperature,Temperature,C,80,95,Monthly,Portable,Active
+MP-039,COMP-029,EQ-012,UTIL-PUMP-001-MOTOR-DE-H,Water Pump Motor DE Horizontal,Vibration,Horizontal,mm/s,4.5,7.1,Monthly,Portable,Active
+MP-040,COMP-030,EQ-012,UTIL-PUMP-001-IMPELLER-VISUAL,Water Pump Impeller Visual Inspection,Visual Inspection,Visual,Severity,2,4,Quarterly,Portable,Active
