@@ -28,6 +28,12 @@ The format is inspired by Keep a Changelog, and this project intends to follow s
 * Industrial AI concept
 * Offline-first architecture
 * Claude for Open Source application draft
+* Added initial architecture diagram set under `docs/architecture/diagrams/`.
+* Added architecture diagrams index at `docs/architecture/diagrams/README.md`.
+* Added README link for architecture diagrams.
+* Added synthetic example cement plant dataset under `examples/cement-plant/`.
+* Added example dataset records for plants, areas, systems, equipment, components, measurement points, monitoring methods, thresholds, and inspection records.
+* Added README examples section linking to the example cement plant dataset.
 
 ### Planned
 
