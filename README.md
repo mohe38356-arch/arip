@@ -209,7 +209,14 @@ Core project documentation:
 - [Industrial AI Concept](docs/ai/industrial-ai-concept.md)
 - [Claude for Open Source Application Draft](docs/vision/claude-oss-application-draft.md)
 
-  
+## Examples
+
+ARIP includes synthetic example datasets for development, testing, documentation, and demonstration.
+
+- [Example Cement Plant Dataset](examples/cement-plant/README.md)
+
+The example cement plant dataset includes a simplified industrial asset hierarchy, equipment records, components, measurement points, monitoring methods, thresholds, and synthetic inspection records.
+
 ## Roadmap
 
 See [ROADMAP.md](ROADMAP.md).
