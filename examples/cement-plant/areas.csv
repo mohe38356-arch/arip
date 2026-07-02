@@ -1,0 +1,7 @@
+area_id,plant_id,area_code,area_name,description,status
+AREA-001,PLANT-001,CRUSHER,Crusher Area,Synthetic crusher area for raw material crushing,Active
+AREA-002,PLANT-001,RAW-MILL,Raw Mill Area,Synthetic raw mill area for raw material grinding and transport,Active
+AREA-003,PLANT-001,PYRO,Pyroprocessing Area,Synthetic pyroprocessing area including kiln preheater cooler and related drives,Active
+AREA-004,PLANT-001,CEMENT-MILL,Cement Mill Area,Synthetic cement mill area for finish grinding,Active
+AREA-005,PLANT-001,PACKING,Packing Area,Synthetic packing and dispatch area,Active
+AREA-006,PLANT-001,UTILITIES,Utilities Area,Synthetic utilities area including compressors pumps and auxiliary systems,Active
