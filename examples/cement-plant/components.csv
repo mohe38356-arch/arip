@@ -1,0 +1,31 @@
+component_id,equipment_id,component_code,component_name,component_type,description,status
+COMP-001,EQ-001,CR-CRUSHER-001-ROTOR,Crusher Rotor,Rotor,Synthetic crusher rotor component,Active
+COMP-002,EQ-001,CR-CRUSHER-001-BRG-DE,Crusher Drive End Bearing,Bearing,Synthetic drive end bearing for crusher,Active
+COMP-003,EQ-002,RM-FAN-001-MOTOR,Raw Mill Fan Motor,Motor,Synthetic motor for raw mill fan,Active
+COMP-004,EQ-002,RM-FAN-001-FAN-ROTOR,Raw Mill Fan Rotor,Rotor,Synthetic fan rotor for raw mill fan,Active
+COMP-005,EQ-002,RM-FAN-001-COUPLING,Raw Mill Fan Coupling,Coupling,Synthetic coupling between motor and fan,Active
+COMP-006,EQ-002,RM-FAN-001-BRG-DE,Raw Mill Fan DE Bearing,Bearing,Synthetic drive end bearing for raw mill fan,Active
+COMP-007,EQ-002,RM-FAN-001-BRG-NDE,Raw Mill Fan NDE Bearing,Bearing,Synthetic non-drive end bearing for raw mill fan,Active
+COMP-008,EQ-003,RM-MILL-001-MOTOR,Raw Mill Main Motor,Motor,Synthetic main motor for raw mill,Active
+COMP-009,EQ-003,RM-MILL-001-GBX,Raw Mill Gearbox,Gearbox,Synthetic gearbox for raw mill,Active
+COMP-010,EQ-003,RM-MILL-001-ROLLER,Raw Mill Roller,Roller,Synthetic grinding roller for raw mill,Active
+COMP-011,EQ-004,RM-SEP-001-MOTOR,Raw Mill Separator Motor,Motor,Synthetic separator motor,Active
+COMP-012,EQ-004,RM-SEP-001-ROTOR,Raw Mill Separator Rotor,Rotor,Synthetic separator rotor,Active
+COMP-013,EQ-005,KILN-DRV-001-MOTOR,Kiln Drive Motor,Motor,Synthetic kiln drive motor,Active
+COMP-014,EQ-005,KILN-DRV-001-GBX,Kiln Drive Gearbox,Gearbox,Synthetic kiln drive gearbox,Active
+COMP-015,EQ-005,KILN-DRV-001-COUPLING,Kiln Drive Coupling,Coupling,Synthetic kiln drive coupling,Active
+COMP-016,EQ-006,CLR-FAN-001-MOTOR,Cooler Fan Motor,Motor,Synthetic cooler fan motor,Active
+COMP-017,EQ-006,CLR-FAN-001-ROTOR,Cooler Fan Rotor,Rotor,Synthetic cooler fan rotor,Active
+COMP-018,EQ-006,CLR-FAN-001-BRG-DE,Cooler Fan DE Bearing,Bearing,Synthetic drive end bearing for cooler fan,Active
+COMP-019,EQ-007,CM-GBX-001-INPUT,Cement Mill Gearbox Input Shaft,Shaft,Synthetic gearbox input shaft,Active
+COMP-020,EQ-007,CM-GBX-001-OUTPUT,Cement Mill Gearbox Output Shaft,Shaft,Synthetic gearbox output shaft,Active
+COMP-021,EQ-007,CM-GBX-001-BRG-IN,Cement Mill Gearbox Input Bearing,Bearing,Synthetic input bearing for cement mill gearbox,Active
+COMP-022,EQ-007,CM-GBX-001-BRG-OUT,Cement Mill Gearbox Output Bearing,Bearing,Synthetic output bearing for cement mill gearbox,Active
+COMP-023,EQ-009,PK-ELEV-001-BELT,Bucket Elevator Belt,Belt,Synthetic bucket elevator belt,Active
+COMP-024,EQ-009,PK-ELEV-001-BRG-HEAD,Bucket Elevator Head Bearing,Bearing,Synthetic head bearing for bucket elevator,Active
+COMP-025,EQ-010,PK-CONV-001-BELT,Belt Conveyor Belt,Belt,Synthetic belt conveyor belt,Active
+COMP-026,EQ-010,PK-CONV-001-DRIVE,Belt Conveyor Drive,Drive,Synthetic conveyor drive unit,Active
+COMP-027,EQ-011,UTIL-COMP-001-MOTOR,Air Compressor Motor,Motor,Synthetic air compressor motor,Active
+COMP-028,EQ-011,UTIL-COMP-001-AIR-END,Air Compressor Air End,Compressor Element,Synthetic compressor air end,Active
+COMP-029,EQ-012,UTIL-PUMP-001-MOTOR,Water Pump Motor,Motor,Synthetic water pump motor,Active
+COMP-030,EQ-012,UTIL-PUMP-001-IMPELLER,Water Pump Impeller,Impeller,Synthetic water pump impeller,Active
