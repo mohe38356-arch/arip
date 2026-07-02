@@ -199,6 +199,7 @@ Core project documentation:
 - [Project Vision](docs/vision/project-vision.md)
 - [Open Source Positioning](docs/vision/open-source-positioning.md)
 - [Architecture Overview](docs/architecture/architecture-overview.md)
+- [Architecture Diagrams](docs/architecture/diagrams/README.md)
 - [Asset Hierarchy Model](docs/architecture/asset-hierarchy-model.md)
 - [Offline-First Architecture](docs/architecture/offline-first-architecture.md)
 - [Condition Monitoring Domain Model](docs/condition-monitoring/condition-monitoring-domain-model.md)
