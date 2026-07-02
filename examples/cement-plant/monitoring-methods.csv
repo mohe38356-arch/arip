@@ -1,0 +1,8 @@
+method_id,method_code,method_name,description,typical_units,data_type,status
+METHOD-001,VIBRATION,Vibration,Portable or online vibration monitoring for rotating equipment,mm/s;g;um;Hz,Numeric and spectrum,Active
+METHOD-002,TEMPERATURE,Temperature,Point temperature measurement for bearings motors gearboxes and process-related assets,C,Numeric,Active
+METHOD-003,THERMOGRAPHY,Thermography,Infrared thermal inspection for electrical mechanical and process hotspots,C;thermal image,Image and numeric,Active
+METHOD-004,OIL-ANALYSIS,Oil Analysis,Lubricant condition monitoring including viscosity water particle count wear metals and contamination,cSt;ppm;ISO 4406;mgKOH/g,Laboratory record,Active
+METHOD-005,ULTRASOUND,Ultrasound,Ultrasonic inspection for leaks bearing lubrication electrical discharge and friction,dB;audio,Numeric and audio,Active
+METHOD-006,VISUAL,Visual Inspection,Structured visual inspection for leakage cracks corrosion belt damage loose bolts and abnormal conditions,Severity;photo;note,Checklist and attachment,Active
+METHOD-007,PROCESS-DATA,Process Data,Operating and process context such as pressure flow temperature speed current and production rate,Various,Time-series,Active
